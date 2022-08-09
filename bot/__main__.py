@@ -21,8 +21,8 @@ from .modules import authorize, list, cancel_mirror, mirror_status, mirror, clon
 from threading import Thread
 
 def progress_bar(percentage):
-    p_used = '⬢'
-    p_total = '⬡'
+    p_used = '❤'
+    p_total = '🤍'
     if isinstance(percentage, str):
         return 'NaN'
     try:
