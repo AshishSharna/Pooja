@@ -75,7 +75,7 @@ Type /{BotCommands.HelpCommand} to get a list of available commands
 '''
         sendMarkup(start_string, context.bot, update.message, reply_markup)
     else:
-        sendMarkup('Sorry, You cannot use me Join Our Leech/Mirror Group @Ashish_Leech_Group', context.bot, update.message, reply_markup)
+        sendMarkup('Sorry, You cannot use me Join Our Leech/Mirror Group @Ashish_Leech_Group ❤', context.bot, update.message, reply_markup)
 
 def restart(update, context):
     restart_message = sendMessage("Restarting...", context.bot, update.message)
