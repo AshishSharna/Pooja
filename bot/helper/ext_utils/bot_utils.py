@@ -246,7 +246,8 @@ T: {disk_t}GB | F: {disk_f}GB
 Working For: {currentTime}
 T-DL: {recv} | T-UL: {sent}
 
-Made with ❤️ by Dawn
+
+Made with ❤️ by Ashish Sharma (@AshishSharmaLegend)
 """
 
 #---Thanks for deleting my name ❤️ Appreciate it---#
