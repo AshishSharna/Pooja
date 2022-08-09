@@ -125,7 +125,7 @@ def get_progress_bar_string(status):
     return p_str
 
 def progress_bar(percentage):
-    p_used = '❤'
+    p_used = '🖤'
     p_total = '♡'
     if isinstance(percentage, str):
         return 'NaN'
